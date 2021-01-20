@@ -24,6 +24,16 @@
               "details": null
           }
       }
-  }
+  },
+  "json": {
+	  "status": "done",
+	  "message": "OK",
+	  "info": {
+	    "total": 20,
+	    "parsed": 17,
+	    "unparsed": 3,
+	    "details": ["a", "b", "c"]    
+    	}			  
+    } 
 
 }
