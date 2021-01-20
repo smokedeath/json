@@ -9,21 +9,21 @@
     "name": "typicode"
   }
   "file": {
-    "status": "done",
-    "message": "OK",
-    "info": {
-        "filename": "e0980c130e6fb6f0e62c141bea453b7f67eb0f98c4e63e9f9d3d53a20ccc9ff8.csv",
-        "platform_id": [
-            "getcontact",
-            "skype"
-        ],
-        "lines": {
-            "total": 0,
-            "parsed": 0,
-            "unparsed": 0,
-            "details": null
-        }
-    }
-}
+      "status": "done",
+      "message": "OK",
+      "info": {
+          "filename": "e0980c130e6fb6f0e62c141bea453b7f67eb0f98c4e63e9f9d3d53a20ccc9ff8.csv",
+          "platform_id": [
+              "getcontact",
+              "skype"
+          ],
+          "lines": {
+              "total": 0,
+              "parsed": 0,
+              "unparsed": 0,
+              "details": null
+          }
+      }
+  }
 
 }
