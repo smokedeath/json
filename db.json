@@ -34,6 +34,34 @@
 	    "unparsed": 3,
 	    "details": ["a", "b", "c"]    
     	}			  
-    } 
+    } ,
+  "info": {
+    "status": "done",
+    "message": "OK",
+    "info": {
+        "filename": "4f8927ab863a3a87257157c819b333e00560a4bef46048512eb5448c2ce96467.csv",
+        "platform_id": [
+            "getcontact",
+            "skype"
+        ],
+        "lines": {
+            "total": 10,
+            "parsed": 8,
+            "unparsed": 2,
+            "details": [
+                 {
+                   "line": 5,
+                   "phone": +771155344444
+                 },
+                 {
+                   "line": 7,
+                   "phone": +7711553**44444
+                 }
+             ]
+
+        }
+    }
+}
+ 
 
 }
