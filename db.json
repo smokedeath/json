@@ -61,7 +61,14 @@
 
         }
     }
-}
+},
+  "all": {
+	  "files":[
+		  {file_name: 'file1.csv', status: 'done'},
+		  {file_name: 'file2.csv', status: 'in_progress'},
+		  {file_name: 'file3.csv', status: 'in_progress'}
+	  ]		  
+    }
  
 
 }
